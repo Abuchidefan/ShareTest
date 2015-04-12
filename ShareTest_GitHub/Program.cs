@@ -10,6 +10,7 @@ namespace ShareTest_GitHub
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("test");
         }
     }
 }
